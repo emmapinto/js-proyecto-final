@@ -1,0 +1,11 @@
+[
+    {"name": "Sandalias", "price": 9000, "img": "img/sandalias.jpg", "stock": 450, "category": "Calzado"},
+    {"name": "Camisas", "price": 1500, "img": "img/camisas.jpg", "stock": 650, "category": "Indumentaria"},
+    {"name": "Pulseras", "price": 500, "img": "img/pulseras.jpg", "stock": 800, "category": "Accesorio"},
+    {"name": "Relojes", "price": 2000, "img": "img/relojes.jpg", "stock": 500, "category": "Accesorio"},
+    {"name": "Pantalones", "price": 15000, "img": "img/pantalones.jpg", "stock": 400, "category": "Indumentaria"},
+    {"name": "Ojotas", "price": 8000, "img": "img/ojotas.jpg", "stock": 350, "category": "Calzado"},
+    {"name": "Vestidos", "price": 600, "img": "img/vestidos.jpg", "stock": 900, "category": "Indumentaria"},
+    {"name": "Corbatas", "price": 900, "img": "img/corbatas.jpg", "stock": 250, "category": "Accesorio"}
+]
+
